@@ -1,8 +1,6 @@
 # TFM-IA-Censura-Literaria
 Pipeline de OCR, PLN y análisis de grafos aplicado al estudio de la censura literaria.
 
-Pipeline de OCR, PLN y análisis de grafos aplicado al estudio de la censura literaria.
-
 Repositorio asociado al Trabajo Fin de Máster dedicado al análisis computacional de la censura literaria mediante técnicas de OCR, procesamiento del lenguaje natural y análisis de grafos.
 
 ## Contenido
