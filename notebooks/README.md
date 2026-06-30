@@ -4,7 +4,7 @@ Esta carpeta contiene los cuadernos de Google Colab empleados en las distintas f
 
 ## Cuadernos incluidos
 
-| Archivo | Descripción |
+| Archivos | Descripción |
 |----------|-------------|
 | 01_grafos_edge_gephi.ipynb | Generación de los archivos de aristas utilizados en Gephi. |
 | EdgeDefin.ipynb | Definición de las relaciones entre términos para la construcción de grafos. |
